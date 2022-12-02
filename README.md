@@ -4,7 +4,7 @@ eBay scraper using GoLang & goquery
 
 ## Description
 
-Another small project in Go to help me learn the language and its uses. 
+A small project in Go to help me learn the language and its uses. 
 
 - Made a GET request to Ebay with Golang net/http package
 - Installed Goquery library/package
